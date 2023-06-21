@@ -1,2 +1,3 @@
+<<<<<<< Updated upstream
 This is second file.
 I have made changes.
